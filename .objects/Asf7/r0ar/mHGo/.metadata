@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Notepad-Main Screen",
+  "Description": "This is the main screen for Notepad\r\n",
+  "Type": "Screen",
+  "Id": "mHGo5k6aWUaWaBy8iuYfnQ",
+  "Reference": "BoV87XibA06980GkOsjmmA/mHGo5k6aWUaWaBy8iuYfnQ",
+  "ParentRef": "BoV87XibA06980GkOsjmmA/r0arLK8hXUmX3znMr_YCxw",
+  "Created": "2024-04-13T10:16:49.9166756Z",
+  "Updated": "2024-04-13T10:16:49.9166756Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

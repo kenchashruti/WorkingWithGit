@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BLqjS0uJ0Ey3pXbhR2cRqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArea="198, 42, 35, 17" CvTextArgument="Help" CvType="Text" DesignTimeRectangle="193, 38, 46, 24" DesignTimeScaleFactor="1.25" FriendlyName="'Help'" FullSelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' /&gt;&lt;ctrl name='Help' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' /&gt;&lt;ctrl name='Help' role='menu item' automationid='' check:text='Help' /&gt;" Guid="a9717269-9b8e-44f6-ad98-9a7b82045c18" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADIAAAAcCAYAAAAjmez3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEESURBVFhH7ZTREYMgDIZdmDlYgzUYgy149FwgRTQFIVToSY/m+O7yAEX9vwBdgAlTZDSmyGhMkdGYIqNRLWK1BKHMObpilACp7Tm6p3V9DVMkhrWIXy/EWRLin9P1OL48IzW0qHYR8WvjIEa5cArwaUpkDx/mLGjp5grfo2gTeXc4rxDCgEp2AINhLlIkDW01yOw9ZZ7fEd/9XHSvTyLx+IBqSJlOIuEYUfyHSMWRoESyd1c0JKbLZffBLiHcHVHh8tPrw9FzM243qF0q00VkB8NhpcHzsTn+qfCZwrdKVIv0hGpEK1UicWfv6ht+JtIbNiJPwEdk2zbgUMu6rsChmBwtgBe8/AJDs6N93wAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='Untitled - Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7f6e9f3d12ea461c26d401a82ba36b15.png" xmlns="">0k1AuUiAr_0W775qj5cpw6w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
